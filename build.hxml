@@ -1,0 +1,5 @@
+-cs out
+Main
+-D no-compilation
+# -net-lib UnityEditor.dll
+-net-lib ./dll/bin/Debug/net5.0/dll.dll
